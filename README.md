@@ -11,3 +11,7 @@ A distributed system that authenticates people and provides them with access to 
 4. For a returning visitor, this system automatically sends them an Email/SMS message with a valid OTP.
 
 5. Given a valid OTP, a visitor is be able to input it and receive a personalized greeting.
+
+## Architecture ##
+
+https://github.com/rahulgarg97/SmartDoor-Authentication-System-AWS/blob/main/SmartDoor_Authentication_System.png
