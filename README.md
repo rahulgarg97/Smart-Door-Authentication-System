@@ -1,4 +1,4 @@
-# Smart-Door-Authentication-System-AWS
+# Smart Door Authentication System
 
 A distributed system that authenticates people and provides them with access to a virtual door.
 
